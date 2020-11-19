@@ -19,116 +19,22 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=处理器$
+LastFocusedTable=lib$
 [Table1]
 SchemaName=
-TableName=其它$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table2]
-SchemaName=
-TableName=处理器$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table3]
-SchemaName=
-TableName=接口芯片$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table4]
-SchemaName=
-TableName=电源$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table5]
-SchemaName=
-TableName=贴片电容$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table6]
-SchemaName=
-TableName=贴片电阻$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table7]
-SchemaName=
-TableName=连接器$
+TableName=lib$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [FieldMap1]
-Options=FieldName=其它$.物料编码|TableNameOnly=其它$|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=lib$.Part Number|TableNameOnly=lib$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
-Options=FieldName=其它$.Library Ref|TableNameOnly=其它$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=lib$.Description|TableNameOnly=lib$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=其它$.Library Path|TableNameOnly=其它$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=lib$.Library Ref|TableNameOnly=lib$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=其它$.Footprint Ref|TableNameOnly=其它$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=lib$.Library Path|TableNameOnly=lib$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=其它$.Footprint Path|TableNameOnly=其它$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=lib$.Footprint Ref|TableNameOnly=lib$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=处理器$.物料编码|TableNameOnly=处理器$|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap7]
-Options=FieldName=处理器$.Library Ref|TableNameOnly=处理器$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap8]
-Options=FieldName=处理器$.Library Path|TableNameOnly=处理器$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap9]
-Options=FieldName=处理器$.Footprint Ref|TableNameOnly=处理器$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap10]
-Options=FieldName=处理器$.Footprint Path|TableNameOnly=处理器$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap11]
-Options=FieldName=接口芯片$.物料编码|TableNameOnly=接口芯片$|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap12]
-Options=FieldName=接口芯片$.Library Ref|TableNameOnly=接口芯片$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap13]
-Options=FieldName=接口芯片$.Library Path|TableNameOnly=接口芯片$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap14]
-Options=FieldName=接口芯片$.Footprint Ref|TableNameOnly=接口芯片$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap15]
-Options=FieldName=接口芯片$.Footprint Path|TableNameOnly=接口芯片$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap16]
-Options=FieldName=电源$.物料编码|TableNameOnly=电源$|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap17]
-Options=FieldName=电源$.Library Ref|TableNameOnly=电源$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap18]
-Options=FieldName=电源$.Library Path|TableNameOnly=电源$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap19]
-Options=FieldName=电源$.Footprint Ref|TableNameOnly=电源$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap20]
-Options=FieldName=电源$.Footprint Path|TableNameOnly=电源$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap21]
-Options=FieldName=贴片电容$.物料编码|TableNameOnly=贴片电容$|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap22]
-Options=FieldName=贴片电容$.Library Ref|TableNameOnly=贴片电容$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap23]
-Options=FieldName=贴片电容$.Library Path|TableNameOnly=贴片电容$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap24]
-Options=FieldName=贴片电容$.Footprint Ref|TableNameOnly=贴片电容$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap25]
-Options=FieldName=贴片电容$.Footprint Path|TableNameOnly=贴片电容$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap26]
-Options=FieldName=贴片电阻$.物料编码|TableNameOnly=贴片电阻$|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap27]
-Options=FieldName=贴片电阻$.Library Ref|TableNameOnly=贴片电阻$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap28]
-Options=FieldName=贴片电阻$.Library Path|TableNameOnly=贴片电阻$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap29]
-Options=FieldName=贴片电阻$.Footprint Ref|TableNameOnly=贴片电阻$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap30]
-Options=FieldName=贴片电阻$.Footprint Path|TableNameOnly=贴片电阻$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap31]
-Options=FieldName=连接器$.物料编码|TableNameOnly=连接器$|FieldNameOnly=物料编码|FieldType=0|ParameterName=物料编码|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap32]
-Options=FieldName=连接器$.Library Ref|TableNameOnly=连接器$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap33]
-Options=FieldName=连接器$.Library Path|TableNameOnly=连接器$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap34]
-Options=FieldName=连接器$.Footprint Ref|TableNameOnly=连接器$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap35]
-Options=FieldName=连接器$.Footprint Path|TableNameOnly=连接器$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=lib$.Footprint Path|TableNameOnly=lib$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
