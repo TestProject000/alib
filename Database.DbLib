@@ -39,20 +39,4 @@ Options=FieldName=lib$.Footprint Ref|TableNameOnly=lib$|FieldNameOnly=Footprint 
 [FieldMap6]
 Options=FieldName=lib$.Footprint Path|TableNameOnly=lib$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=lib$.Name|TableNameOnly=lib$|FieldNameOnly=Name|FieldType=1|ParameterName=Name|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap8]
-Options=FieldName=lib$.Manufacturer|TableNameOnly=lib$|FieldNameOnly=Manufacturer|FieldType=1|ParameterName=Manufacturer|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap9]
 Options=FieldName=lib$.Manufacturer Product Number|TableNameOnly=lib$|FieldNameOnly=Manufacturer Product Number|FieldType=1|ParameterName=Manufacturer Product Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap10]
-Options=FieldName=lib$.Price|TableNameOnly=lib$|FieldNameOnly=Price|FieldType=1|ParameterName=Price|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap11]
-Options=FieldName=lib$.Supplier|TableNameOnly=lib$|FieldNameOnly=Supplier|FieldType=1|ParameterName=Supplier|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap12]
-Options=FieldName=lib$.Supplier Part|TableNameOnly=lib$|FieldNameOnly=Supplier Part|FieldType=1|ParameterName=Supplier Part|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap13]
-Options=FieldName=lib$.Link|TableNameOnly=lib$|FieldNameOnly=Link|FieldType=1|ParameterName=Link|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap14]
-Options=FieldName=lib$.Postion|TableNameOnly=lib$|FieldNameOnly=Postion|FieldType=1|ParameterName=Postion|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap15]
-Options=FieldName=lib$.Value|TableNameOnly=lib$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
