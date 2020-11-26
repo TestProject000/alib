@@ -19,24 +19,188 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=lib$
+LastFocusedTable=Z综合$
 [Table1]
 SchemaName=
-TableName=lib$
+TableName=A贴片电阻$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Name0=60|Manufacturer0=95|Manufacturer Product Number0=180|Description0=109|Price0=53|Supplier0=66|Supplier Part0=89|Link0=44|Postion0=62|Value0=52|Library Ref0=77|Library Path0=130|Footprint Ref0=92|Footprint Path0=120
+[Table2]
+SchemaName=
+TableName=B贴片电容$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Name0=60|Manufacturer0=93|Manufacturer Product Number0=180|Description0=153|Price0=53|Supplier0=66|Supplier Part0=89|Link0=44|Postion0=62|Value0=52|Library Ref0=77|Library Path0=131|Footprint Ref0=92|Footprint Path0=120
+[Table3]
+SchemaName=
+TableName=C处理器$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Name0=65|Manufacturer0=126|Manufacturer Product Number0=180|Description0=125|Price0=47|Supplier0=66|Supplier Part0=89|Link0=44|Postion0=62|Value0=52|Library Ref0=80|Library Path0=154|Footprint Ref0=113|Footprint Path0=189
+[Table4]
+SchemaName=
+TableName=D电解电容&钽电容$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Name0=112|Manufacturer0=106|Manufacturer Product Number0=180|Description0=123|Price0=53|Supplier0=66|Supplier Part0=89|Link0=44|Postion0=62|Value0=52|Library Ref0=77|Library Path0=127|Footprint Ref0=141|Footprint Path0=217
+[Table5]
+SchemaName=
+TableName=E电源$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Name0=112|Manufacturer0=190|Manufacturer Product Number0=180|Description0=364|Price0=53|Supplier0=66|Supplier Part0=89|Link0=44|Postion0=62|Value0=52|Library Ref0=77|Library Path0=83|Footprint Ref0=120|Footprint Path0=196
+[Table6]
+SchemaName=
+TableName=F接口芯片$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Name0=207|Manufacturer0=141|Manufacturer Product Number0=180|Description0=366|Price0=66|Supplier0=66|Supplier Part0=89|Link0=44|Postion0=62|Value0=52|Library Ref0=77|Library Path0=83|Footprint Ref0=112|Footprint Path0=188
+[Table7]
+SchemaName=
+TableName=G按键开关$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Name0=86|Manufacturer0=150|Manufacturer Product Number0=194|Description0=371|Price0=53|Supplier0=66|Supplier Part0=89|Link0=44|Postion0=62|Value0=52|Library Ref0=77|Library Path0=83|Footprint Ref0=121|Footprint Path0=197
+[Table8]
+SchemaName=
+TableName=Z综合$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Name0=122|Manufacturer0=141|Manufacturer Product Number0=180|Description0=192|Price0=53|Supplier0=66|Supplier Part0=89|Link0=44|Postion0=62|Value0=60|Library Ref0=106|Library Path0=180|Footprint Ref0=200|Footprint Path0=276
 [FieldMap1]
-Options=FieldName=lib$.Part Number|TableNameOnly=lib$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=A贴片电阻$.Part Number|TableNameOnly=A贴片电阻$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
-Options=FieldName=lib$.Description|TableNameOnly=lib$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=A贴片电阻$.Description|TableNameOnly=A贴片电阻$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=lib$.Library Ref|TableNameOnly=lib$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=A贴片电阻$.Value|TableNameOnly=A贴片电阻$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=lib$.Library Path|TableNameOnly=lib$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=A贴片电阻$.Library Ref|TableNameOnly=A贴片电阻$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=lib$.Footprint Ref|TableNameOnly=lib$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=A贴片电阻$.Library Path|TableNameOnly=A贴片电阻$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=lib$.Footprint Path|TableNameOnly=lib$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=A贴片电阻$.Footprint Ref|TableNameOnly=A贴片电阻$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=lib$.Manufacturer Product Number|TableNameOnly=lib$|FieldNameOnly=Manufacturer Product Number|FieldType=1|ParameterName=Manufacturer Product Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=A贴片电阻$.Footprint Path|TableNameOnly=A贴片电阻$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=B贴片电容$.Part Number|TableNameOnly=B贴片电容$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=B贴片电容$.Description|TableNameOnly=B贴片电容$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=B贴片电容$.Value|TableNameOnly=B贴片电容$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=B贴片电容$.Library Ref|TableNameOnly=B贴片电容$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=B贴片电容$.Library Path|TableNameOnly=B贴片电容$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=B贴片电容$.Footprint Ref|TableNameOnly=B贴片电容$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=B贴片电容$.Footprint Path|TableNameOnly=B贴片电容$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=C处理器$.Part Number|TableNameOnly=C处理器$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=C处理器$.Manufacturer Product Number|TableNameOnly=C处理器$|FieldNameOnly=Manufacturer Product Number|FieldType=1|ParameterName=Manufacturer Product Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=C处理器$.Description|TableNameOnly=C处理器$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=C处理器$.Library Ref|TableNameOnly=C处理器$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=C处理器$.Library Path|TableNameOnly=C处理器$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=C处理器$.Footprint Ref|TableNameOnly=C处理器$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=C处理器$.Footprint Path|TableNameOnly=C处理器$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=D电解电容&钽电容$.Part Number|TableNameOnly=D电解电容&钽电容$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=D电解电容&钽电容$.Description|TableNameOnly=D电解电容&钽电容$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=D电解电容&钽电容$.Value|TableNameOnly=D电解电容&钽电容$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=D电解电容&钽电容$.Library Ref|TableNameOnly=D电解电容&钽电容$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=D电解电容&钽电容$.Library Path|TableNameOnly=D电解电容&钽电容$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=D电解电容&钽电容$.Footprint Ref|TableNameOnly=D电解电容&钽电容$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=D电解电容&钽电容$.Footprint Path|TableNameOnly=D电解电容&钽电容$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=E电源$.Part Number|TableNameOnly=E电源$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=E电源$.Manufacturer Product Number|TableNameOnly=E电源$|FieldNameOnly=Manufacturer Product Number|FieldType=1|ParameterName=Manufacturer Product Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=E电源$.Description|TableNameOnly=E电源$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=E电源$.Library Ref|TableNameOnly=E电源$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=E电源$.Library Path|TableNameOnly=E电源$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=E电源$.Footprint Ref|TableNameOnly=E电源$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=E电源$.Footprint Path|TableNameOnly=E电源$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=F接口芯片$.Part Number|TableNameOnly=F接口芯片$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=F接口芯片$.Manufacturer Product Number|TableNameOnly=F接口芯片$|FieldNameOnly=Manufacturer Product Number|FieldType=1|ParameterName=Manufacturer Product Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=F接口芯片$.Description|TableNameOnly=F接口芯片$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=F接口芯片$.Library Ref|TableNameOnly=F接口芯片$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=F接口芯片$.Library Path|TableNameOnly=F接口芯片$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=F接口芯片$.Footprint Ref|TableNameOnly=F接口芯片$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=F接口芯片$.Footprint Path|TableNameOnly=F接口芯片$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=G按键开关$.Part Number|TableNameOnly=G按键开关$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=G按键开关$.Manufacturer Product Number|TableNameOnly=G按键开关$|FieldNameOnly=Manufacturer Product Number|FieldType=1|ParameterName=Manufacturer Product Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=G按键开关$.Description|TableNameOnly=G按键开关$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=G按键开关$.Library Ref|TableNameOnly=G按键开关$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=G按键开关$.Library Path|TableNameOnly=G按键开关$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=G按键开关$.Footprint Ref|TableNameOnly=G按键开关$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=G按键开关$.Footprint Path|TableNameOnly=G按键开关$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Z综合$.Part Number|TableNameOnly=Z综合$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Z综合$.Manufacturer Product Number|TableNameOnly=Z综合$|FieldNameOnly=Manufacturer Product Number|FieldType=1|ParameterName=Manufacturer Product Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Z综合$.Description|TableNameOnly=Z综合$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Z综合$.Library Ref|TableNameOnly=Z综合$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Z综合$.Library Path|TableNameOnly=Z综合$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Z综合$.Footprint Ref|TableNameOnly=Z综合$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Z综合$.Footprint Path|TableNameOnly=Z综合$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
